@@ -104,10 +104,6 @@ motto: "Break it to understand it. Build it to defend it."
 <img src="https://raw.githubusercontent.com/Psychomods666/Psychomods666/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> ⚙️ **Setup required (one time):** the snake image only renders once you generate it in *your* profile repo (`Psychomods666/Psychomods666`):
-> 1. Create the repo `Psychomods666/Psychomods666` if it doesn't exist (this README goes there).
-> 2. Add `.github/workflows/snake.yml` with the [snk action](https://github.com/Platane/snk#-usage) — generates the SVG on a schedule.
-> 3. Commit, then the badge above will auto-update from your own contribution graph.
 
 ---
 
